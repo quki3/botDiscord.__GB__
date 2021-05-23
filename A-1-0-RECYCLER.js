@@ -75,4 +75,4 @@ bot.on('message', async message =>{
 })
 
 
-bot.login('ODQ1NzA1MDg3MTE5Nzg2MDI0.YKk2PQ.Ze6oZiH7en5ZDpfXoA9DXf9mpM4');
+bot.login('');
