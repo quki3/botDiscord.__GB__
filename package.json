@@ -1,0 +1,26 @@
+{
+  "name": "botdiscord.__gb__",
+  "version": "1.0.0",
+  "description": "echo \"# BotDiscord__GB__\" >> README.md\r git init\r git add README.md\r git commit -m \"first commit\"\r git branch -M main\r git remote add origin https://github.com/GabrielBrufau/BotDiscord__GB__.git\r git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBrufau/botDiscord.__GB__.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielBrufau/botDiscord.__GB__/issues"
+  },
+  "homepage": "https://github.com/GabrielBrufau/botDiscord.__GB__#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
